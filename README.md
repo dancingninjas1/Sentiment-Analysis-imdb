@@ -3,12 +3,8 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Requirements](#requirements)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Model Information](#model-information)
-- [Author](#author)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Dataset](#Daatset)
 
 ## Introduction
 
@@ -29,3 +25,8 @@ The sentiment analysis model used in this code is based on the BERT architecture
 It has been fine-tuned on a sentiment analysis dataset.
 The trained model is available on the Hugging Face Model Hub at [Hugging Face Model hub](https://huggingface.co/dancingninjas/sentiment-model/tree/main).
 The streamlit app is available [here](https://huggingface.co/spaces/dancingninjas/sentiment-analysis-nlp)
+
+
+## Dataset
+The model has been fine-tuned on [IMDB Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+
